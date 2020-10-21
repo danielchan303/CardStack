@@ -1,0 +1,16 @@
+{
+  "name": "card-stack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "card-stack",
+    "react-native",
+    "scrollview"
+  ],
+  "author": "Daniel Chan",
+  "license": "ISC"
+}
