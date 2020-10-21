@@ -42,7 +42,7 @@ const CardStack = (props: CardStackProps) => {
           });
 
           const translateY = scrollX.interpolate({
-            inputRange: [0, index * screenWidth],
+            inputRange: [-1, index * screenWidth],
             outputRange: [0, index * 10],
             extrapolate: "clamp",
           });
