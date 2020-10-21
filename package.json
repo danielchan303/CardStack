@@ -12,5 +12,6 @@
     "scrollview"
   ],
   "author": "Daniel Chan",
-  "license": "ISC"
+  "license": "ISC",
+  "homepage": "https://github.com/danielchan303/CardStack"
 }
